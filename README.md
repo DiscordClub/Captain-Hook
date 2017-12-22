@@ -9,4 +9,4 @@ const Discord = require('discord.js');
 const hook = new Discord.WebhookClient('webhook id', 'webhook token');
 
 // Send a message using the webhook
-hook.send('I am now alive!');
+hook.send('I am now alive!'); 
